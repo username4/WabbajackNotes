@@ -1,0 +1,22 @@
+1. download + unpack Lutris GE proton 7.2
+2. create folders wine-content, wine-mount,
+3. "ciopfs wine-content wine-mount "
+4. Run Prefix fom wine-mount
+5. install steam 
+6. run with -no-dwrite (font displayed) -clearbeta (inet-connection) 
+7. make scripts
+8. install SkyrimSE
+	ensured, skyrim is installed in c:/
+9. Launch - sound crackling 
+9.1 "PULSE_LATENCY_MSEC=60" to steam.sh
+9.2 WINEPREFIX="/home/muser/SSD2/Games/Proton/wine-mount" PULSE_LATENCY_MSEC="60" "./lutris-GE-Proton7-2-x86_64/bin/wine" "wine-mount/drive_c/Program Files (x86)/Steam/steam.exe" -no-dwrite -clearbeta " steam://open/minigameslist"
+10. Chose Modlist  Septimus 2 https://www.wabbajack.org/#/modlists/info?machineURL=septimus
+	Installed VCRun, dotnet 5.0 Console and dotnet 5.0 desktop  through installers
+	steam update behavior
+11. Put Wabbajack.exe in C:\Wabbajack, started
+	no ssl connection could be established
+12. Unpacked Wabbajack 2.5.3.9.zip into folder
+	started from script
+	Problem with "System.Private.CoreLib.dll"
+	Installed x86 of dotnet 5.0
+	WJ opens, but error persist, when trying to do open anything  KERNEL32.dll.RaiseFailFastException
