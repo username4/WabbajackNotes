@@ -1,0 +1,803 @@
+wineserver: using server-side synchronization.
+wine: RLIMIT_NICE is <= 20, unable to use setpriority safely
+0070:err:ntoskrnl:ZwLoadDriver failed to create driver L"\\Registry\\Machine\\System\\CurrentControlSet\\Services\\wineusb": c0000142
+003c:fixme:service:scmdatabase_autostart_services Auto-start service L"wineusb" failed to start: 1114
+0130:fixme:heap:GetNumaHighestNodeNumber semi-stub: 000000000019F078
+0130:fixme:seh:WerRegisterRuntimeExceptionModule (L"C:\\users\\steamuser\\Temp\\.net\\Wabbajack\\hwti5ulh.jau\\mscordaccore.dll", 0000000180000000) stub
+0130:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+0130:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+0130:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+0130:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 000000000A3BC8C8, 34) stub
+0130:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 000000000A3BC268, 17) stub
+0140:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+0140:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+014c:fixme:sync:SetWaitableTimerEx (000000000000019C, 000000000465FEE8, 500, 0000000000000000, 0000000000000000, 0000000000000000, 50) semi-stub
+0130:fixme:nls:CompareStringEx semi-stub behavior for flag(s) 0x8000000
+0130:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 000000000A3E1E80, 38) stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D6F0) :semi-stub
+0130:fixme:ntdll:NtQuerySystemInformation (0x000000ce,0x19b110,0x00000008,(nil)) stub
+0130:fixme:nls:get_dummy_preferred_ui_language (0x8 000000000019C0B0 0000000000000000 000000000019C0A8) returning a dummy value (current locale)
+0130:fixme:nls:get_dummy_preferred_ui_language (0x8 000000000019C0B0 000000000019C000 000000000019C0A8) returning a dummy value (current locale)
+0130:fixme:msg:ChangeWindowMessageFilter c035 00000001
+0130:fixme:dwmapi:DwmAttachMilContent (000000000001005E) stub
+0150:fixme:gdi:GdiEntry13 stub
+0148:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+0150:fixme:dwrite:dwritefactory_CreateMonitorRenderingParams (0000000000000001): monitor setting ignored
+0150:fixme:d3d:wined3d_check_device_format_conversion output 0x6560050, device_type WINED3D_DEVICE_TYPE_HAL, src_format WINED3DFMT_B8G8R8X8_UNORM, dst_format WINED3DFMT_B8G8R8X8_UNORM stub!
+0150:fixme:d3d:wined3d_check_device_format_conversion output 0x65600b0, device_type WINED3D_DEVICE_TYPE_HAL, src_format WINED3DFMT_B8G8R8X8_UNORM, dst_format WINED3DFMT_B8G8R8X8_UNORM stub!
+0130:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 000000000A525298, 40) stub
+0130:fixme:wtsapi:WTSQuerySessionInformationW Unimplemented class 8
+0148:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 000000000A5319F0, 46) stub
+0130:fixme:win:RegisterPowerSettingNotification (000000000001006C,{02731015-4510-4526-99e6-e5a17ebd1aea},0): stub
+0130:fixme:wtsapi:WTSRegisterSessionNotification Stub 0000000000020068 0x00000000
+0148:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 000000000A538900, 41) stub
+0148:fixme:ntdll:RtlGetCurrentProcessorNumberEx (00000000044FE820) :semi-stub
+0148:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 000000000A540D38, 18) stub
+0150:fixme:d3d:wined3d_check_device_format_conversion output 0x6560050, device_type WINED3D_DEVICE_TYPE_HAL, src_format WINED3DFMT_B8G8R8X8_UNORM, dst_format WINED3DFMT_B8G8R8X8_UNORM stub!
+0130:fixme:msg:ChangeWindowMessageFilterEx 0000000000020068 c032 1 000000000019DBF8
+0130:fixme:msg:ChangeWindowMessageFilterEx 0000000000020068 111 1 000000000019DBF8
+0150:fixme:d3d:wined3d_check_device_format_conversion output 0x65600b0, device_type WINED3D_DEVICE_TYPE_HAL, src_format WINED3DFMT_B8G8R8X8_UNORM, dst_format WINED3DFMT_B8G8R8X8_UNORM stub!
+015c:fixme:d3d:state_linepattern_w Setting line patterns is not supported in OpenGL core contexts.
+015c:fixme:d3d:state_lastpixel Last Pixel Drawing Disabled, not handled yet
+0148:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 000000000A55E738, 28) stub
+0148:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 000000000A55F1F0, 56) stub
+0154:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+0148:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 000000000A55FDA8, 49) stub
+0148:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 000000000A561418, 21) stub
+0148:fixme:winsock:GetAddrInfoExW Unsupported namespace 0
+0148:fixme:winsock:GetAddrInfoExW Unsupported cancel handle
+0168:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+0170:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+0170:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 000000000A568D30, 50) stub
+0170:err:kerberos:kerberos_LsaApInitializePackage no Kerberos support, expect problems
+0170:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 000000000A56A178, 22) stub
+0170:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 000000000A56BA30, 65) stub
+0170:fixme:secur32:schan_QueryContextAttributesW Unhandled attribute 0x64
+0170:fixme:nls:GetFileMUIPath stub: 0x10, L"C:\\windows\\system32\\tzres.dll", (null), 000000002B5CE238, 000000002B5CDFE0, 000000002B5CE240, 000000002B5CE230
+0170:fixme:nls:GetFileMUIPath stub: 0x10, L"C:\\windows\\system32\\tzres.dll", (null), 000000002B5CE238, 000000002B5CDFE0, 000000002B5CE240, 000000002B5CE230
+0170:fixme:nls:GetFileMUIPath stub: 0x10, L"C:\\windows\\system32\\tzres.dll", (null), 000000002B5CE238, 000000002B5CDFE0, 000000002B5CE240, 000000002B5CE230
+0170:fixme:crypt:CertAddCertificateLinkToStore (000000002B6D4FB0, 000000002B673C08, 00000004, 0000000000000000): semi-stub
+0174:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+0148:fixme:virtual:NtFlushProcessWriteBuffers stub
+0154:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+013c:fixme:ntdll:RtlGetCurrentProcessorNumberEx (0000000002AEF960) :semi-stub
+0184:fixme:heap:GetNumaHighestNodeNumber semi-stub: 000000000019EF68
+0184:fixme:seh:WerRegisterRuntimeExceptionModule (L"Z:\\home\\muser\\SSD2\\Games\\Proton\\2.5.3.9\\mscordaccore.dll", 00000000012C0000) stub
+0184:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+0184:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+0184:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+0198:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFFFFFFFFFA, 000000002427FF80
+0184:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 000000000268EF20, 34) stub
+0184:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 000000000268E8C0, 17) stub
+0184:fixme:nls:CompareStringEx semi-stub behavior for flag(s) 0x8000000
+0184:fixme:nls:get_dummy_preferred_ui_language (0x8 000000000019E900 0000000000000000 000000000019E8F8) returning a dummy value (current locale)
+0184:fixme:nls:get_dummy_preferred_ui_language (0x8 000000000019E900 000000000019E850 000000000019E8F8) returning a dummy value (current locale)
+009c:fixme:imm:ImeSetActiveContext (0x4803d0, 0): stub
+009c:fixme:imm:ImmReleaseContext (0000000000010020, 00000000004803D0): stub
+0184:fixme:imm:ImeSetActiveContext (0x5803d0, 1): stub
+0184:fixme:imm:ImmReleaseContext (0000000000030066, 00000000005803D0): stub
+0194:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+0194:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+01a0:fixme:sync:SetWaitableTimerEx (00000000000001C8, 00000000257BFEE8, 500, 0000000000000000, 0000000000000000, 0000000000000000, 50) semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019D5D0) :semi-stub
+0184:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 000000000269C3B8, 38) stub
+0184:fixme:ntdll:NtQuerySystemInformation (0x000000ce,0x19afa0,0x00000008,(nil)) stub
+0184:err:kerberos:kerberos_LsaApInitializePackage no Kerberos support, expect problems
+019c:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+0184:err:mscoree:FixupVTableEntry unsupported vtable fixup flags 0
+0184:fixme:nls:GetFileMUIPath stub: 0x10, L"C:\\windows\\system32\\tzres.dll", (null), 000000000019A248, 0000000000199FF0, 000000000019A250, 000000000019A240
+0184:fixme:nls:GetFileMUIPath stub: 0x10, L"C:\\windows\\system32\\tzres.dll", (null), 000000000019A248, 0000000000199FF0, 000000000019A250, 000000000019A240
+0184:fixme:nls:GetFileMUIPath stub: 0x10, L"C:\\windows\\system32\\tzres.dll", (null), 000000000019A248, 0000000000199FF0, 000000000019A250, 000000000019A240
+0184:fixme:heap:RtlSetHeapInformation unimplemented HeapEnableTerminationOnCorruption
+0184:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 0000075A4F344030, 16) stub
+01a8:fixme:nls:RtlGetThreadPreferredUILanguages 00000038, 000000003298FAE4, 0000000000000000 000000003298FAE0
+01a8:fixme:nls:get_dummy_preferred_ui_language (0x38 000000003298FAE4 0000000000000000 000000003298FAE0) returning a dummy value (current locale)
+01a8:fixme:nls:RtlGetThreadPreferredUILanguages 00000038, 000000003298FAE4, 000000003298FAC0 000000003298FAE0
+01a8:fixme:nls:get_dummy_preferred_ui_language (0x38 000000003298FAE4 000000003298FAC0 000000003298FAE0) returning a dummy value (current locale)
+01a8:fixme:winsock:WSALookupServiceBeginW (000000003298F720 0x00000ff0 000000003298F798) Stub!
+[0304/191420.414:ERROR:network_change_notifier_win.cc(228)] WSALookupServiceBegin failed with: 0
+01a8:fixme:iphlpapi:NotifyAddrChange (Handle 000000003298F8F8, overlapped 0000075A4F3DA748): stub
+01a8:fixme:userenv:RegisterGPNotification 0000000000000408 0
+01a8:fixme:userenv:RegisterGPNotification 000000000000040C 1
+01a8:fixme:shcore:IsOS (OS_DOMAINMEMBER) What should we return here?
+01cc:fixme:wtsapi:WTSRegisterSessionNotification Stub 0000000000010076 0x00000000
+01a8:fixme:win:GetPointerDevices (000000003298F294 0000000000000000): partial stub
+01a8:fixme:system:QueryDisplayConfig (00000002 000000003298F260 0000075A4F2C2130 000000003298F294 0000075A4F238C00 0000000000000000): semi-stub
+01a8:fixme:system:DisplayConfigGetDeviceInfo Unimplemented packet type: 11
+01a8:fixme:win:GetPointerDevices (000000003298F294 0000000000000000): partial stub
+01a8:fixme:system:QueryDisplayConfig (00000002 000000003298F260 0000075A4F2C2130 000000003298F294 0000075A4F238C00 0000000000000000): semi-stub
+01a8:fixme:system:DisplayConfigGetDeviceInfo Unimplemented packet type: 11
+01d0:fixme:wpc:WindowsParentalControls_GetUserSettings ((null) 000000003670F880)
+0194:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+0184:fixme:nls:GetCalendarInfoW Unimplemented caltype 2
+0184:fixme:nls:GetCalendarInfoW Unimplemented caltype 4
+0184:fixme:nls:GetCalendarInfoW Unimplemented caltype 57
+01b4:fixme:netapi32:NetGetJoinInformation Semi-stub (null) 0000000033B2F7D0 0000000033B2F7C0
+01d4:fixme:file:ReplaceFileW Ignoring flags 2
+01d4:fixme:file:NtLockFile I/O completion on lock not implemented yet
+0184:fixme:file:FindFirstStreamW (L"\\\\?\\Z:\\home\\muser\\SSD2\\Games\\Proton\\2.5.3.9\\logs\\Wabbajack 2022-03-04 19_13_56.log", 0, 0000000024E20CB0, 0): stub!
+0184:fixme:virtual:NtFlushProcessWriteBuffers stub
+01e8:err:kerberos:kerberos_LsaApInitializePackage no Kerberos support, expect problems
+
+Unhandled Exception:
+System.TypeLoadException: Could not find method 'FirstOrDefault' due to a type load error: Could not set up parent class, due to:  assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Private.CoreLib.dll type:Object member:(null) assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Linq.dll type:Enumerable member:(null)
+  at CefSharp.BrowserSubprocess.BrowserSubprocessExecutable.Main (System.Collections.Generic.IEnumerable`1[T] args, CefSharp.RenderProcess.IRenderProcessHandler handler) [0x00000] in <32d5adb6f9be43f6b6470b0b9157331b>:0 
+  at CefSharp.BrowserSubprocess.Program.Main (System.String[] args) [0x0000c] in <b353a0cefea740028f197b47ebb054df>:0 
+01a4:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+[ERROR] FATAL UNHANDLED EXCEPTION: System.TypeLoadException: Could not find method 'FirstOrDefault' due to a type load error: Could not set up parent class, due to:  assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Private.CoreLib.dll type:Object member:(null) assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Linq.dll type:Enumerable member:(null)
+
+  at CefSharp.BrowserSubprocess.BrowserSubprocessExecutable.Main (System.Collections.Generic.IEnumerable`1[T] args, CefSharp.RenderProcess.IRenderProcessHandler handler) [0x00000] in <32d5adb6f9be43f6b6470b0b9157331b>:0 
+
+  at CefSharp.BrowserSubprocess.Program.Main (System.String[] args) [0x0000c] in <b353a0cefea740028f197b47ebb054df>:0 
+[0304/191421.096:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=1
+[0304/191421.097:WARNING:gpu_process_host.cc(1316)] The GPU process has crashed 1 time(s)
+0184:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 00000000034C54B0, 40) stub
+0218:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+0184:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000000019B530) :semi-stub
+0220:err:kerberos:kerberos_LsaApInitializePackage no Kerberos support, expect problems
+0184:fixme:ver:GetFileVersionInfoExW flags 0x2 ignored
+019c:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 000000000337D340, 46) stub
+01a4:fixme:ntdll:RtlGetCurrentProcessorNumberEx (00000000308BEC50) :semi-stub
+019c:fixme:ntdll:RtlGetCurrentProcessorNumberEx (0000000024C9EC50) :semi-stub
+01a4:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 0000000003377198, 18) stub
+0184:fixme:msg:ChangeWindowMessageFilter c035 00000001
+0184:fixme:dwmapi:DwmAttachMilContent (000000000002008A) stub
+0234:fixme:gdi:GdiEntry13 stub
+01a4:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 00000000033986C0, 28) stub
+01a4:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 00000000033990E0, 56) stub
+01a4:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 0000000003399CD0, 49) stub
+0234:fixme:dwrite:dwritefactory_CreateMonitorRenderingParams (0000000000000001): monitor setting ignored
+0234:fixme:d3d:wined3d_check_device_format_conversion output 0x406c0050, device_type WINED3D_DEVICE_TYPE_HAL, src_format WINED3DFMT_B8G8R8X8_UNORM, dst_format WINED3DFMT_B8G8R8X8_UNORM stub!
+0234:fixme:d3d:wined3d_check_device_format_conversion output 0x406c00b0, device_type WINED3D_DEVICE_TYPE_HAL, src_format WINED3DFMT_B8G8R8X8_UNORM, dst_format WINED3DFMT_B8G8R8X8_UNORM stub!
+01a4:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 000000000339B340, 21) stub
+01a4:fixme:winsock:GetAddrInfoExW Unsupported namespace 0
+01a4:fixme:winsock:GetAddrInfoExW Unsupported cancel handle
+019c:fixme:winsock:GetAddrInfoExW Unsupported namespace 0
+019c:fixme:winsock:GetAddrInfoExW Unsupported cancel handle
+
+Unhandled Exception:
+System.TypeLoadException: Could not find method 'FirstOrDefault' due to a type load error: Could not set up parent class, due to:  assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Private.CoreLib.dll type:Object member:(null) assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Linq.dll type:Enumerable member:(null)
+  at CefSharp.BrowserSubprocess.BrowserSubprocessExecutable.Main (System.Collections.Generic.IEnumerable`1[T] args, CefSharp.RenderProcess.IRenderProcessHandler handler) [0x00000] in <32d5adb6f9be43f6b6470b0b9157331b>:0 
+  at CefSharp.BrowserSubprocess.Program.Main (System.String[] args) [0x0000c] in <b353a0cefea740028f197b47ebb054df>:0 
+[ERROR] FATAL UNHANDLED EXCEPTION: System.TypeLoadException: Could not find method 'FirstOrDefault' due to a type load error: Could not set up parent class, due to:  assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Private.CoreLib.dll type:Object member:(null) assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Linq.dll type:Enumerable member:(null)
+
+  at CefSharp.BrowserSubprocess.BrowserSubprocessExecutable.Main (System.Collections.Generic.IEnumerable`1[T] args, CefSharp.RenderProcess.IRenderProcessHandler handler) [0x00000] in <32d5adb6f9be43f6b6470b0b9157331b>:0 
+
+  at CefSharp.BrowserSubprocess.Program.Main (System.String[] args) [0x0000c] in <b353a0cefea740028f197b47ebb054df>:0 
+[0304/191421.762:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=1
+[0304/191421.762:WARNING:gpu_process_host.cc(1316)] The GPU process has crashed 2 time(s)
+0224:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+0224:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+0218:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+0248:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+0244:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 00000000036B7728, 50) stub
+0248:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 0000000003691EF8, 22) stub
+0248:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 00000000038B50A8, 65) stub
+0244:fixme:secur32:get_cipher_algid unknown algorithm 23
+0248:fixme:secur32:get_cipher_algid unknown algorithm 23
+0244:fixme:secur32:get_mac_algid unknown algorithm 200, cipher 23
+0248:fixme:secur32:get_mac_algid unknown algorithm 200, cipher 23
+0248:fixme:secur32:get_cipher_algid unknown algorithm 23
+0244:fixme:secur32:get_cipher_algid unknown algorithm 23
+0248:fixme:secur32:get_mac_algid unknown algorithm 200, cipher 23
+0244:fixme:secur32:get_mac_algid unknown algorithm 200, cipher 23
+0244:fixme:secur32:schan_QueryContextAttributesW Unhandled attribute 0x64
+0248:fixme:secur32:schan_QueryContextAttributesW Unhandled attribute 0x64
+0240:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000004176EF30) :semi-stub
+0248:fixme:crypt:CertAddCertificateLinkToStore (0000000042450870, 00000000423C0308, 00000004, 0000000000000000): semi-stub
+0184:fixme:wtsapi:WTSQuerySessionInformationW Unimplemented class 8
+0184:fixme:win:RegisterPowerSettingNotification (0000000000040092,{02731015-4510-4526-99e6-e5a17ebd1aea},0): stub
+0184:fixme:wtsapi:WTSRegisterSessionNotification Stub 0000000000030098 0x00000000
+0234:fixme:d3d:wined3d_check_device_format_conversion output 0x406c0050, device_type WINED3D_DEVICE_TYPE_HAL, src_format WINED3DFMT_B8G8R8X8_UNORM, dst_format WINED3DFMT_B8G8R8X8_UNORM stub!
+0184:fixme:msg:ChangeWindowMessageFilterEx 0000000000030098 c032 1 000000000019DAA8
+0184:fixme:msg:ChangeWindowMessageFilterEx 0000000000030098 111 1 000000000019DAA8
+0234:fixme:d3d:wined3d_check_device_format_conversion output 0x406c00b0, device_type WINED3D_DEVICE_TYPE_HAL, src_format WINED3DFMT_B8G8R8X8_UNORM, dst_format WINED3DFMT_B8G8R8X8_UNORM stub!
+025c:fixme:d3d:state_linepattern_w Setting line patterns is not supported in OpenGL core contexts.
+025c:fixme:d3d:state_lastpixel Last Pixel Drawing Disabled, not handled yet
+0184:fixme:dwrite:dwritetextanalyzer_AnalyzeNumberSubstitution (000000002502DA90 0 8 000000002502D970): stub
+0218:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000003C02EF30) :semi-stub
+0184:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+01a4:fixme:winsock:GetAddrInfoExW Unsupported namespace 0
+01a4:fixme:winsock:GetAddrInfoExW Unsupported cancel handle
+0248:fixme:secur32:get_cipher_algid unknown algorithm 23
+0248:fixme:secur32:get_mac_algid unknown algorithm 200, cipher 23
+0248:fixme:secur32:get_cipher_algid unknown algorithm 23
+0248:fixme:secur32:get_mac_algid unknown algorithm 200, cipher 23
+0248:fixme:secur32:schan_QueryContextAttributesW Unhandled attribute 0x64
+0250:err:kerberos:kerberos_LsaApInitializePackage no Kerberos support, expect problems
+025c:fixme:d3d_shader:print_glsl_info_log Info log received from GLSL shader #6:
+025c:fixme:d3d_shader:print_glsl_info_log     Vertex info
+025c:fixme:d3d_shader:print_glsl_info_log     -----------
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[3]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[4]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[5]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[6]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[7]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[8]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[9]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[10]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[11]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log Info log received from GLSL shader #12:
+025c:fixme:d3d_shader:print_glsl_info_log     Vertex info
+025c:fixme:d3d_shader:print_glsl_info_log     -----------
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[2].zw" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[4]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[5]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[6]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[7]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[8]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[9]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[10]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[11]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log Info log received from GLSL shader #16:
+025c:fixme:d3d_shader:print_glsl_info_log     Vertex info
+025c:fixme:d3d_shader:print_glsl_info_log     -----------
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[2].zw" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[4]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[5]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[6]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[7]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[8]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[9]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[10]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[11]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log Info log received from GLSL shader #20:
+025c:fixme:d3d_shader:print_glsl_info_log     Vertex info
+025c:fixme:d3d_shader:print_glsl_info_log     -----------
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[2].zw" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[3]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[4]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[5]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[6]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[7]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[8]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[9]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[10]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[11]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log Info log received from GLSL shader #24:
+025c:fixme:d3d_shader:print_glsl_info_log     Vertex info
+025c:fixme:d3d_shader:print_glsl_info_log     -----------
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[0].zw" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[1]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[2]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[3]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[4]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[5]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[6]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[7]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[9]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[11]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log Info log received from GLSL shader #27:
+025c:fixme:d3d_shader:print_glsl_info_log     Vertex info
+025c:fixme:d3d_shader:print_glsl_info_log     -----------
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[0].zw" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[1]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[2]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[3]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[4]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[5]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[6]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[7]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[9]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[11]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log Info log received from GLSL shader #30:
+025c:fixme:d3d_shader:print_glsl_info_log     Vertex info
+025c:fixme:d3d_shader:print_glsl_info_log     -----------
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[0].zw" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[1]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[2]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[3]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[4]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[5]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[6]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[7]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[9]" might be used before being initialized
+025c:fixme:d3d_shader:print_glsl_info_log     0(25) : warning C7050: "vs_out[11]" might be used before being initialized
+019c:fixme:winsock:GetAddrInfoExW Unsupported namespace 0
+019c:fixme:winsock:GetAddrInfoExW Unsupported cancel handle
+
+Unhandled Exception:
+System.TypeLoadException: Could not find method 'FirstOrDefault' due to a type load error: Could not set up parent class, due to:  assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Private.CoreLib.dll type:Object member:(null) assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Linq.dll type:Enumerable member:(null)
+  at CefSharp.BrowserSubprocess.BrowserSubprocessExecutable.Main (System.Collections.Generic.IEnumerable`1[T] args, CefSharp.RenderProcess.IRenderProcessHandler handler) [0x00000] in <32d5adb6f9be43f6b6470b0b9157331b>:0 
+  at CefSharp.BrowserSubprocess.Program.Main (System.String[] args) [0x0000c] in <b353a0cefea740028f197b47ebb054df>:0 
+025c:fixme:d3d:swapchain_blit_gdi Using GDI present.
+0254:fixme:secur32:get_cipher_algid unknown algorithm 23
+0254:fixme:secur32:get_mac_algid unknown algorithm 200, cipher 23
+0254:fixme:secur32:get_cipher_algid unknown algorithm 23
+0254:fixme:secur32:get_mac_algid unknown algorithm 200, cipher 23
+0254:fixme:secur32:schan_QueryContextAttributesW Unhandled attribute 0x64
+[ERROR] FATAL UNHANDLED EXCEPTION: System.TypeLoadException: Could not find method 'FirstOrDefault' due to a type load error: Could not set up parent class, due to:  assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Private.CoreLib.dll type:Object member:(null) assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Linq.dll type:Enumerable member:(null)
+
+  at CefSharp.BrowserSubprocess.BrowserSubprocessExecutable.Main (System.Collections.Generic.IEnumerable`1[T] args, CefSharp.RenderProcess.IRenderProcessHandler handler) [0x00000] in <32d5adb6f9be43f6b6470b0b9157331b>:0 
+
+  at CefSharp.BrowserSubprocess.Program.Main (System.String[] args) [0x0000c] in <b353a0cefea740028f197b47ebb054df>:0 
+[0304/191422.501:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=1
+[0304/191422.502:WARNING:gpu_process_host.cc(1316)] The GPU process has crashed 3 time(s)
+0184:fixme:uiautomation:UiaReturnRawElementProvider Unsupported object id -4
+0184:fixme:uiautomation:UiaReturnRawElementProvider Unsupported object id -12
+0184:fixme:uiautomation:UiaReturnRawElementProvider Unsupported object id -4
+0184:fixme:uiautomation:UiaReturnRawElementProvider Unsupported object id -12
+0280:err:kerberos:kerberos_LsaApInitializePackage no Kerberos support, expect problems
+
+Unhandled Exception:
+System.TypeLoadException: Could not find method 'FirstOrDefault' due to a type load error: Could not set up parent class, due to:  assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Private.CoreLib.dll type:Object member:(null) assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Linq.dll type:Enumerable member:(null)
+  at CefSharp.BrowserSubprocess.BrowserSubprocessExecutable.Main (System.Collections.Generic.IEnumerable`1[T] args, CefSharp.RenderProcess.IRenderProcessHandler handler) [0x00000] in <32d5adb6f9be43f6b6470b0b9157331b>:0 
+  at CefSharp.BrowserSubprocess.Program.Main (System.String[] args) [0x0000c] in <b353a0cefea740028f197b47ebb054df>:0 
+[ERROR] FATAL UNHANDLED EXCEPTION: System.TypeLoadException: Could not find method 'FirstOrDefault' due to a type load error: Could not set up parent class, due to:  assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Private.CoreLib.dll type:Object member:(null) assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Linq.dll type:Enumerable member:(null)
+
+  at CefSharp.BrowserSubprocess.BrowserSubprocessExecutable.Main (System.Collections.Generic.IEnumerable`1[T] args, CefSharp.RenderProcess.IRenderProcessHandler handler) [0x00000] in <32d5adb6f9be43f6b6470b0b9157331b>:0 
+
+  at CefSharp.BrowserSubprocess.Program.Main (System.String[] args) [0x0000c] in <b353a0cefea740028f197b47ebb054df>:0 
+[0304/191423.240:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=1
+[0304/191423.240:WARNING:gpu_process_host.cc(1316)] The GPU process has crashed 4 time(s)
+02ac:err:kerberos:kerberos_LsaApInitializePackage no Kerberos support, expect problems
+
+Unhandled Exception:
+System.TypeLoadException: Could not find method 'FirstOrDefault' due to a type load error: Could not set up parent class, due to:  assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Private.CoreLib.dll type:Object member:(null) assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Linq.dll type:Enumerable member:(null)
+  at CefSharp.BrowserSubprocess.BrowserSubprocessExecutable.Main (System.Collections.Generic.IEnumerable`1[T] args, CefSharp.RenderProcess.IRenderProcessHandler handler) [0x00000] in <32d5adb6f9be43f6b6470b0b9157331b>:0 
+  at CefSharp.BrowserSubprocess.Program.Main (System.String[] args) [0x0000c] in <b353a0cefea740028f197b47ebb054df>:0 
+[ERROR] FATAL UNHANDLED EXCEPTION: System.TypeLoadException: Could not find method 'FirstOrDefault' due to a type load error: Could not set up parent class, due to:  assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Private.CoreLib.dll type:Object member:(null) assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Linq.dll type:Enumerable member:(null)
+
+  at CefSharp.BrowserSubprocess.BrowserSubprocessExecutable.Main (System.Collections.Generic.IEnumerable`1[T] args, CefSharp.RenderProcess.IRenderProcessHandler handler) [0x00000] in <32d5adb6f9be43f6b6470b0b9157331b>:0 
+
+  at CefSharp.BrowserSubprocess.Program.Main (System.String[] args) [0x0000c] in <b353a0cefea740028f197b47ebb054df>:0 
+[0304/191423.817:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=1
+[0304/191423.817:WARNING:gpu_process_host.cc(1316)] The GPU process has crashed 5 time(s)
+0224:fixme:ntdll:RtlGetCurrentProcessorNumberEx (000000003CC3EF30) :semi-stub
+0184:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 0000000004215668, 41) stub
+0244:fixme:ntdll:RtlGetCurrentProcessorNumberEx (0000000041D7F550) :semi-stub
+0254:fixme:thread:NtSetInformationThread Can't set other thread's platform description
+019c:fixme:winsock:GetAddrInfoExW Unsupported namespace 0
+019c:fixme:winsock:GetAddrInfoExW Unsupported cancel handle
+01a4:fixme:winsock:GetAddrInfoExW Unsupported namespace 0
+01a4:fixme:winsock:GetAddrInfoExW Unsupported cancel handle
+02bc:err:kerberos:kerberos_LsaApInitializePackage no Kerberos support, expect problems
+
+Unhandled Exception:
+System.TypeLoadException: Could not find method 'FirstOrDefault' due to a type load error: Could not set up parent class, due to:  assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Private.CoreLib.dll type:Object member:(null) assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Linq.dll type:Enumerable member:(null)
+  at CefSharp.BrowserSubprocess.BrowserSubprocessExecutable.Main (System.Collections.Generic.IEnumerable`1[T] args, CefSharp.RenderProcess.IRenderProcessHandler handler) [0x00000] in <32d5adb6f9be43f6b6470b0b9157331b>:0 
+  at CefSharp.BrowserSubprocess.Program.Main (System.String[] args) [0x0000c] in <b353a0cefea740028f197b47ebb054df>:0 
+[ERROR] FATAL UNHANDLED EXCEPTION: System.TypeLoadException: Could not find method 'FirstOrDefault' due to a type load error: Could not set up parent class, due to:  assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Private.CoreLib.dll type:Object member:(null) assembly:Z:\home\muser\SSD2\Games\Proton\2.5.3.9\System.Linq.dll type:Enumerable member:(null)
+
+  at CefSharp.BrowserSubprocess.BrowserSubprocessExecutable.Main (System.Collections.Generic.IEnumerable`1[T] args, CefSharp.RenderProcess.IRenderProcessHandler handler) [0x00000] in <32d5adb6f9be43f6b6470b0b9157331b>:0 
+
+  at CefSharp.BrowserSubprocess.Program.Main (System.String[] args) [0x0000c] in <b353a0cefea740028f197b47ebb054df>:0 
+[0304/191424.408:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=1
+[0304/191424.408:WARNING:gpu_process_host.cc(1316)] The GPU process has crashed 6 time(s)
+[0304/191424.409:ERROR:browser_gpu_channel_host_factory.cc(160)] Failed to launch GPU process.
+Process terminated. Unrecoverable system error.
+   at System.Environment.FailFast(System.String)
+   at MS.Internal.Invariant.FailFast(System.String, System.String)
+   at System.Windows.Media.FontFamily.get_FirstFontFamily()
+   at System.Windows.Media.FontFamily.get_LineSpacing()
+   at System.Windows.Controls.TextBox.GetLineHeight()
+   at System.Windows.Controls.TextBox.SetScrollViewerMinMaxHeight()
+   at System.Windows.Controls.TextBox.MeasureOverride(System.Windows.Size)
+   at System.Windows.FrameworkElement.MeasureCore(System.Windows.Size)
+   at System.Windows.UIElement.Measure(System.Windows.Size)
+   at MS.Internal.Helper.MeasureElementWithSingleChild(System.Windows.UIElement, System.Windows.Size)
+   at System.Windows.Controls.ContentPresenter.MeasureOverride(System.Windows.Size)
+   at System.Windows.FrameworkElement.MeasureCore(System.Windows.Size)
+   at System.Windows.UIElement.Measure(System.Windows.Size)
+   at System.Windows.Controls.Grid.MeasureCell(Int32, Boolean)
+   at System.Windows.Controls.Grid.MeasureCellsGroup(Int32, System.Windows.Size, Boolean, Boolean, Boolean ByRef)
+   at System.Windows.Controls.Grid.MeasureOverride(System.Windows.Size)
+   at System.Windows.FrameworkElement.MeasureCore(System.Windows.Size)
+   at System.Windows.UIElement.Measure(System.Windows.Size)
+   at System.Windows.Controls.Border.MeasureOverride(System.Windows.Size)
+   at System.Windows.FrameworkElement.MeasureCore(System.Windows.Size)
+   at System.Windows.UIElement.Measure(System.Windows.Size)
+   at System.Windows.Controls.Control.MeasureOverride(System.Windows.Size)
+   at System.Windows.FrameworkElement.MeasureCore(System.Windows.Size)
+   at System.Windows.UIElement.Measure(System.Windows.Size)
+   at System.Windows.Controls.Control.MeasureOverride(System.Windows.Size)
+   at System.Windows.FrameworkElement.MeasureCore(System.Windows.Size)
+   at System.Windows.UIElement.Measure(System.Windows.Size)
+   at System.Windows.Controls.Grid.MeasureCell(Int32, Boolean)
+   at System.Windows.Controls.Grid.MeasureCellsGroup(Int32, System.Windows.Size, Boolean, Boolean, Boolean ByRef)
+   at System.Windows.Controls.Grid.MeasureOverride(System.Windows.Size)
+   at System.Windows.FrameworkElement.MeasureCore(System.Windows.Size)
+   at System.Windows.UIElement.Measure(System.Windows.Size)
+   at System.Windows.Controls.Border.MeasureOverride(System.Windows.Size)
+   at System.Windows.FrameworkElement.MeasureCore(System.Windows.Size)
+   at System.Windows.UIElement.Measure(System.Windows.Size)
+   at MS.Internal.Helper.MeasureElementWithSingleChild(System.Windows.UIElement, System.Windows.Size)
+   at System.Windows.Controls.ContentPresenter.MeasureOverride(System.Windows.Size)
+   at System.Windows.FrameworkElement.MeasureCore(System.Windows.Size)
+   at System.Windows.UIElement.Measure(System.Windows.Size)
+   at System.Windows.Controls.Border.MeasureOverride(System.Windows.Size)
+   at System.Windows.FrameworkElement.MeasureCore(System.Windows.Size)
+   at System.Windows.UIElement.Measure(System.Windows.Size)
+   at System.Windows.Controls.Control.MeasureOverride(System.Windows.Size)
+   at System.Windows.FrameworkElement.MeasureCore(System.Windows.Size)
+   at System.Windows.UIElement.Measure(System.Windows.Size)
+   at System.Windows.Controls.WrapPanel.MeasureOverride(System.Windows.Size)
+   at System.Windows.FrameworkElement.MeasureCore(System.Windows.Size)
+   at System.Windows.UIElement.Measure(System.Windows.Size)
+   at MS.Internal.Helper.MeasureElementWithSingleChild(System.Windows.UIElement, System.Windows.Size)
+   at System.Windows.Controls.ScrollContentPresenter.MeasureOverride(System.Windows.Size)
+   at System.Windows.FrameworkElement.MeasureCore(System.Windows.Size)
+   at System.Windows.UIElement.Measure(System.Windows.Size)
+   at System.Windows.Controls.Grid.MeasureCell(Int32, Boolean)
+   at System.Windows.Controls.Grid.MeasureCellsGroup(Int32, System.Windows.Size, Boolean, Boolean, Boolean ByRef)
+   at System.Windows.Controls.Grid.MeasureOverride(System.Windows.Size)
+   at System.Windows.FrameworkElement.MeasureCore(System.Windows.Size)
+   at System.Windows.UIElement.Measure(System.Windows.Size)
+   at System.Windows.Controls.ScrollViewer.MeasureOverride(System.Windows.Size)
+   at System.Windows.FrameworkElement.MeasureCore(System.Windows.Size)
+   at System.Windows.UIElement.Measure(System.Windows.Size)
+   at System.Windows.Controls.Grid.MeasureCell(Int32, Boolean)
+   at System.Windows.Controls.Grid.MeasureCellsGroup(Int32, System.Windows.Size, Boolean, Boolean, Boolean ByRef)
+   at System.Windows.Controls.Grid.MeasureOverride(System.Windows.Size)
+   at System.Windows.FrameworkElement.MeasureCore(System.Windows.Size)
+   at System.Windows.UIElement.Measure(System.Windows.Size)
+   at MS.Internal.Helper.MeasureElementWithSingleChild(System.Windows.UIElement, System.Windows.Size)
+   at System.Windows.Controls.ContentPresenter.MeasureOverride(System.Windows.Size)
+   at System.Windows.FrameworkElement.MeasureCore(System.Windows.Size)
+   at System.Windows.UIElement.Measure(System.Windows.Size)
+   at System.Windows.Controls.Border.MeasureOverride(System.Windows.Size)
+   at System.Windows.FrameworkElement.MeasureCore(System.Windows.Size)
+   at System.Windows.UIElement.Measure(System.Windows.Size)
+   at System.Windows.Controls.Control.MeasureOverride(System.Windows.Size)
+   at System.Windows.FrameworkElement.MeasureCore(System.Windows.Size)
+   at System.Windows.UIElement.Measure(System.Windows.Size)
+   at MS.Internal.Helper.MeasureElementWithSingleChild(System.Windows.UIElement, System.Windows.Size)
+   at System.Windows.Controls.ContentPresenter.MeasureOverride(System.Windows.Size)
+   at System.Windows.FrameworkElement.MeasureCore(System.Windows.Size)
+   at System.Windows.UIElement.Measure(System.Windows.Size)
+   at System.Windows.ContextLayoutManager.UpdateLayout()
+   at System.Windows.ContextLayoutManager.UpdateLayoutCallback(System.Object)
+   at System.Windows.Media.MediaContext.FireInvokeOnRenderCallbacks()
+   at System.Windows.Media.MediaContext.RenderMessageHandlerCore(System.Object)
+   at System.Windows.Media.MediaContext.RenderMessageHandler(System.Object)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(System.Delegate, System.Object, Int32)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(System.Object, System.Delegate, System.Object, Int32, System.Delegate)
+   at System.Windows.Threading.DispatcherOperation.InvokeImpl()
+   at System.Windows.Threading.DispatcherOperation.InvokeInSecurityContext(System.Object)
+   at MS.Internal.CulturePreservingExecutionContext.CallbackWrapper(System.Object)
+   at System.Threading.ExecutionContext.RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+   at System.Threading.ExecutionContext.Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+   at MS.Internal.CulturePreservingExecutionContext.Run(MS.Internal.CulturePreservingExecutionContext, System.Threading.ContextCallback, System.Object)
+   at System.Windows.Threading.DispatcherOperation.Invoke()
+   at System.Windows.Threading.Dispatcher.ProcessQueue()
+   at System.Windows.Threading.Dispatcher.WndProcHook(IntPtr, Int32, IntPtr, IntPtr, Boolean ByRef)
+   at MS.Win32.HwndWrapper.WndProc(IntPtr, Int32, IntPtr, IntPtr, Boolean ByRef)
+   at MS.Win32.HwndSubclass.DispatcherCallbackOperation(System.Object)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(System.Delegate, System.Object, Int32)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(System.Object, System.Delegate, System.Object, Int32, System.Delegate)
+   at System.Windows.Threading.Dispatcher.LegacyInvokeImpl(System.Windows.Threading.DispatcherPriority, System.TimeSpan, System.Delegate, System.Object, Int32)
+   at MS.Win32.HwndSubclass.SubclassWndProc(IntPtr, Int32, IntPtr, IntPtr)
+   at MS.Win32.UnsafeNativeMethods.DispatchMessage(System.Windows.Interop.MSG ByRef)
+   at MS.Win32.UnsafeNativeMethods.DispatchMessage(System.Windows.Interop.MSG ByRef)
+   at System.Windows.Threading.Dispatcher.PushFrameImpl(System.Windows.Threading.DispatcherFrame)
+   at System.Windows.Threading.Dispatcher.PushFrame(System.Windows.Threading.DispatcherFrame)
+   at System.Windows.Threading.Dispatcher.Run()
+   at System.Windows.Application.RunDispatcher(System.Object)
+   at System.Windows.Application.RunInternal(System.Windows.Window)
+   at System.Windows.Application.Run()
+   at Wabbajack.App.Main()
+0184:fixme:advapi:RegisterEventSourceW ((null),L".NET Runtime"): stub
+0184:fixme:advapi:ReportEventW (00000000CAFE4242,0x0001,0x0000,0x00000401,0000000000000000,0x0001,0x00000000,00000000001957C0,0000000000000000): stub
+0184:err:eventlog:ReportEventW L"Application: Wabbajack.exe\nCoreCLR Version: 5.0.1422.5710\n.NET Version: 5.0.14\nDescription: The application requested process termination through System.Environment.FailFast(string message).\nMessage: Unrecoverable system error.\nStack:\n   at System.Environment.FailFast(System.String)"...
+0184:fixme:advapi:DeregisterEventSource (00000000CAFE4242) stub
+wine: Call from 0000000170031578 to unimplemented function KERNEL32.dll.RaiseFailFastException, aborting
