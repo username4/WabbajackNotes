@@ -22,3 +22,5 @@
 	WJ opens, but error persist, when trying to do open anything  KERNEL32.dll.RaiseFailFastException
 	Deleted WJ-folder, tried to start with just .exe again
 		starts now, but get same error
+		downloaded newest winetricks and put in with proton-binaries
+		installed dxvk194 with winetricks
