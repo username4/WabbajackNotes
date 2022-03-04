@@ -24,3 +24,6 @@
 		starts now, but get same error
 		downloaded newest winetricks and put in with proton-binaries
 		installed dxvk194 with winetricks
+		reinstalled x64 and installed x86 from 
+			https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-160#visual-studio-2015-2017-2019-and-2022
+		installed vcrun2019 from winetricks
