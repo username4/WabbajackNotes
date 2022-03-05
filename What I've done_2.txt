@@ -1,1 +1,3 @@
-installed steam
+installed steam under c:\
+  -no-dwrite -clearbeta "steam://open/minigameslist"
+installed SkyrimSE in C:\
